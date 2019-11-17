@@ -1,7 +1,11 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+# Kore files
+*.o
+.flavor
+.objs
+colonel.so
+assets.h
+cert
+dh2048.pem
 
 # C extensions
 *.so
